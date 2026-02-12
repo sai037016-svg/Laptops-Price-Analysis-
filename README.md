@@ -1,10 +1,10 @@
-Laptop Price Analysis – Data Analytics Project
+### Laptop Price Analysis – Data Analytics Project
 
-Project Summary :
+### Project Summary :
 
 This project involves an in-depth analysis of laptop pricing data to evaluate how product specifications, brand value, customer ratings, and discount strategies influence laptop prices. The objective is to generate actionable business insights that support pricing decisions, product positioning, and customer purchasing behavior.
 
-Business Objective:
+### Business Objective:
 
 Laptop prices differ significantly across brands and configurations, making it challenging for businesses and consumers to identify value-driven pricing. This project addresses the following key questions:
 
@@ -14,7 +14,7 @@ How do discounts affect the final selling price?
 
 Which technical specifications contribute to higher-priced laptops?
 
-Approach & Methodology:
+### Approach & Methodology:
 
 Collected and cleaned raw laptop pricing data
 
@@ -26,7 +26,7 @@ Analyzed the relationship between pricing, discounts, and customer ratings
 
 Created visualizations to clearly communicate insights
 
-Skills Demonstrated:
+### Skills Demonstrated:
 
 Python-based data analysis
 
@@ -38,7 +38,7 @@ Business-focused analytical thinking
 
 Data visualization and interpretation
 
-Tools & Technologies:
+### Tools & Technologies:
 
 Python
 
@@ -48,7 +48,7 @@ Matplotlib & Seaborn
 
 Jupyter Notebook
 
-Key Insights:
+### Key Insights:
 
 Brand reputation significantly influences laptop pricing
 
@@ -58,6 +58,6 @@ Discount strategies vary notably across brands
 
 Customer ratings and reviews show a measurable impact on pricing trends
 
-Outcome:
+### Outcome:
 
 This project demonstrates my ability to transform raw data into meaningful business insights, apply structured analytical methods, and communicate findings effectively to both technical and non-technical stakeholders.
